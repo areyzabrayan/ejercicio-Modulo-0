@@ -1,0 +1,1 @@
+en este modulo se aprendieron los comandos para navegar a traves de la plataforma Git y como esta generaba una interaccion especifica con el escritoria, como crear carpetas y modificar archivos desde Git que es el sistema de control de versiones, y posterior a esto montarlo a Github que es la plataforma donde se puede socializar lo que hemos creado
